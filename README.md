@@ -1,1 +1,1 @@
-Sequelize-boilerplate 2.0
+Sequelize-Boilerplate 2.0
